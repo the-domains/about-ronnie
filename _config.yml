@@ -1,0 +1,28 @@
+name: About Ronnie
+favicon: null
+layout_spectrum: 0.84600660786964
+typography_spectrum: 0.8385275446344167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.44304865039885044
+  lightness: 0.8843648545444012
+  saturation: 0.9175498236436397
+  rhythmicContrast: 0.4824749391991645
+purpose: []
